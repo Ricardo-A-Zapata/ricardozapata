@@ -1,11 +1,11 @@
 # Hi 👋, I'm Ricky Zapata
 
 ### About Me
-- 🎓 I'm a **Senior Computer Science** student at **New York University's (NYU) Tandon School of Engineering**, graduating in **May 2025**.
-- 📊 I'm passionate about **Data Science**, **Machine Learning**, and **Software Engineering**.
+- 🎓 I'm a **Computer Science new grad from New York University's (NYU) Tandon School of Engineering**.
+- 📊 I'm passionate about **Music**, **Fashion**, **Artificial Intelligence**, **Data Science**, **Machine Learning**, and **Software Engineering**.
 - 🏆 Awards: **CA Students’ Choice Award**, **New CA of the Semester Award**, **Amazon Mini-Hackathon Winner**, **College Scholarship by Bears of South Florida for Demonstrated Leadership**.
 - 🌐 I’m fluent in **English** and **Spanish**.
-- ⚙️ I'm currently learning and expanding my skills in **React** and more advanced **Machine Learning** techniques such as **Deep Learning**.
+- ⚙️ I'm currently learning and expanding my skills in **React** and **Deep Learning**.
 
 ---
 
